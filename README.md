@@ -1,2 +1,2 @@
 # BLOX-City
-Straight up terrible. But it's old code that will otherwise rot away, so enjoy, skids.
+This was made in 2021 but whatever bloxcreate basically remodified most of it so developers can use this version for updates.
